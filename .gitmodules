@@ -1,0 +1,3 @@
+[submodule "devops_project_01"]
+	path = devops_project_01
+	url = https://github.com/Murtaza-001/devops_project_01.git
