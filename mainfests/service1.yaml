@@ -6,7 +6,7 @@ spec:
   selector:
     app: tetris
   ports:
-    - protocol: http
+    - name: http
       port: 80
       targetPort: 80
   type: LoadBalancer
